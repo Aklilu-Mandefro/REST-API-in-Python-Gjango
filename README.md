@@ -1,4 +1,4 @@
-# SIMPLE CRUD API WITH DJANGO REST FRAMEWORK
+# CRUD API IN PYTHON - DJANGO
 [Django REST framework](http://www.django-rest-framework.org/) is a powerful and flexible toolkit for building Web APIs.
 
 ## Requirements
@@ -147,3 +147,5 @@ http http://127.0.0.1:8000/api/v1/movies/?title="AntMan"&year=2020 "Authorizatio
 http http://127.0.0.1:8000/api/v1/movies/?year__gt=2019&year__lt=2022&genre="Action" "Authorization: Bearer {YOUR_TOKEN}"
 ```
 
+## For More Information
+### Follow me on [My Personal Blog](https://volunteer-tech.com/Aklilu/)
